@@ -1,0 +1,1 @@
+This project use ReactJs as its frontend and Ruby on Rails as its back end. The app utilizes jsonwebtoken for authorization and authenthication. It is a complete crud app which performs all CRUD operations and uses postgresql as its backend. Tailwind CSS has been used to style the components in this project.
