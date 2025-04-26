@@ -8,6 +8,9 @@ server/config/master.key
 server/.github
 server/.gitattributes
 
+docker-compose.yml
+server/.env
+
 # Testing
 /coverage
 
